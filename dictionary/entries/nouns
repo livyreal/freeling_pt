@@ -1684,6 +1684,8 @@ acôntios acôntio NCMP000
 acântor acântor NCMS000
 acântores acântor NCMP000
 acção acção NCFS000
+ação ação NCFS000
+ações ação NCFP000
 acôo acôo NCMS000
 acoaramuru acoaramuru NCMS000
 acoaramurus acoaramuru NCMP000
@@ -2025,6 +2027,8 @@ activações activação NCFP000
 activante activante NCMS000
 activantes activante NCMP000
 activação activação NCFS000
+atividade atividade NCFS000
+atividades atividade NCFP000
 actividade actividade NCFS000
 actividades actividade NCFP000
 activismo activismo NCMS000
@@ -2468,6 +2472,8 @@ adopcionismo adopcionismo NCMS000
 adopcionismos adopcionismo NCMP000
 adopções adopção NCFP000
 adopção adopção NCFS000
+adoções adoção NCFP000
+adoção adoção NCFS000
 adoptanda adoptando NCFS000
 adoptandas adoptando NCFP000
 adoptando adoptando NCMS000
@@ -8424,6 +8430,8 @@ anisóptero anisóptero NCMS000
 anisópteros anisóptero NCMP000
 anisótropo anisótropo NCMS000
 anisótropos anisótropo NCMP000
+anistia anistia NCFS000
+anistias anistia NCFP000
 anite anite NCFS000
 anites anite NCFP000
 anito ano NCMS00D
@@ -13828,6 +13836,8 @@ atropinas atropina NCFP000
 atrôos atrôo NCMP000
 atrupido atrupido NCMS000
 atrupidos atrupido NCMP000
+atuação atuação NCFS000
+atuações atuação NCFP000
 atuarro atuarro NCMS000
 atuarros atuarro NCMP000
 atueira atueira NCFS000
@@ -24870,6 +24880,7 @@ carcérulos carcérulo NCMP000
 carcás carcás NCMS000
 carcáses carcás NCMP000
 carácter carácter NCMS000
+caráter caráter NCMS000
 carda carda NCFS000
 cardíaca cardíaco NCFS000
 cardíacas cardíaco NCFP000
@@ -31598,6 +31609,10 @@ colectivizações colectivização NCFP000
 colectivização colectivização NCFS000
 colectivo colectivo NCMS000
 colectivos colectivo NCMP000
+coletivo coletivo NCMS000
+coletivos coletivo NCMP000
+coletiva coletiva NCFS000
+coletivas coletiva NCFP000
 colectânea colectânea NCFS000
 colectâneas colectânea NCFP000
 colectomia colectomia NCFS000
@@ -33459,6 +33474,8 @@ consequente consequente NCMS000
 consequentes consequente NCMP000
 consequência consequência NCFS000
 consequências consequência NCFP000
+conseqüência consequência NCFS000
+conseqüências consequência NCFP000
 consertador consertador NCMS000
 consertadora consertador NCFS000
 consertadoras consertador NCFP000
@@ -33698,6 +33715,8 @@ contabilizações contabilização NCFP000
 contabilização contabilização NCFS000
 contacto contacto NCMS000
 contactos contacto NCMP000
+contato contato NCMS000
+contatos contato NCMP000
 contado contado NCMS000
 contador contador NCMS000
 contadores contador NCMP000
@@ -42225,12 +42244,20 @@ diques dique NCMP000
 direccionalidade direccionalidade NCFS000
 direccionalidades direccionalidade NCFP000
 direcções direcção NCFP000
+direção direção NCFS000
+direções direção NCFP000
 direcção direcção NCFS000
-directa directa NCMS000
-directas directa NCMP000
+directa directa NCFS000
+direta direta NCFS000
+diretas direta NCFP000
+directas directa NCFP000
 directiva directiva NCFS000
 directivas directiva NCFP000
 directo directo NCMS000
+direto direto NCMS000
+diretos direto NCMP000
+diretor diretor NCMS000
+diretores diretor NCMP000
 director director NCMS000
 directora director NCFS000
 directoras director NCFP000
@@ -42238,6 +42265,8 @@ directores director NCMP000
 directoria directoria NCFS000
 directorias directoria NCFP000
 directos directo NCMP000
+diretório diretório NCMS000
+diretórios diretório NCMP000
 directório directório NCMS000
 directórios directório NCMP000
 directriz directriz NCFS000
@@ -42252,6 +42281,8 @@ direito direito NCMS000
 direitos direito NCMP000
 direitura direitura NCFS000
 direituras direitura NCFP000
+diretoria diretoria NCFS000
+diretorias diretoria NCFP000
 diérese diérese NCFS000
 diéreses diérese NCFP000
 diária diária NCFS000
@@ -67897,6 +67928,8 @@ ideógrafo ideógrafo NCMS000
 ideógrafos ideógrafo NCMP000
 ideia ideia NCFS000
 ideias ideia NCFP000
+idéia ideia NCFS000
+idéias ideia NCFP000
 ideóloga ideólogo NCFS000
 ideólogas ideólogo NCFP000
 ideólogo ideólogo NCMS000
@@ -68457,6 +68490,8 @@ impavidez impavidez NCFS000
 impavidezes impavidez NCFP000
 impúbere impúbere NCCS000
 impúberes impúbere NCCP000
+impeachment impeachment NCMS000
+impeachments impeachment NCMP000
 impecabilidade impecabilidade NCFS000
 impecabilidades impecabilidade NCFP000
 impedida impedido NCFS000
@@ -70823,6 +70858,10 @@ internódio internódio NCMS000
 internódios internódio NCMP000
 internegativo internegativo NCMS000
 internegativos internegativo NCMP000
+internet internet NCFS000
+internets internet NCFP000
+internetes internet NCFP000
+internetês internetês NCMS000
 internista internista NCCS000
 internistas internista NCCP000
 internúncio internúncio NCMS000
@@ -83548,6 +83587,8 @@ mictório mictório NCMS000
 mictórios mictório NCMP000
 micturições micturição NCFP000
 micturição micturição NCFS000
+mídia mídia NCFS000
+mídias mídia NCFP000
 miúda miúdo NCFS000
 miúdas miúdas NCFP000
 miúdas miúdo NCFP000
@@ -89453,6 +89494,10 @@ nortenha nortenho NCFS000
 nortenhas nortenho NCFP000
 nortenho nortenho NCMS000
 nortenhos nortenho NCMP000
+norte-americano norte-americano NCMS000
+norte-americanos norte-americano NCMP000
+norte-americana norte-americano NCFS000
+norte-americanas norte-americano NCFP000
 nortes norte NCMP000
 nortista nortista NCCS000
 nortistas nortista NCCP000
@@ -89935,6 +89980,8 @@ objecções objecção NCFP000
 objecção objecção NCFS000
 objectante objectante NCCS000
 objectantes objectante NCCP000
+objetiva objetiva NCFS000
+objetivas objetiva NCFP000
 objectiva objectiva NCFS000
 objectivações objectivação NCFP000
 objectivação objectivação NCFS000
@@ -89943,6 +89990,8 @@ objectividade objectividade NCFS000
 objectividades objectividade NCFP000
 objectivismo objectivismo NCMS000
 objectivismos objectivismo NCMP000
+objetivo objetivo NCMS000
+objetivos objetivo NCMP000
 objectivo objectivo NCMS000
 objectivos objectivo NCMP000
 objecto objecto NCMS000
@@ -101936,6 +101985,8 @@ projectantes projectante NCFP000
 projectação projectação NCFS000
 projectista projectista NCCS000
 projectistas projectista NCCP000
+projeto projeto NCMS000
+projetos projeto NCMP000
 projecto projecto NCMS000
 projector projector NCMS000
 projectores projector NCMP000
@@ -105899,6 +105950,8 @@ reacendimento reacendimento NCMS000
 reacendimentos reacendimento NCMP000
 reacções reacção NCFP000
 reacção reacção NCFS000
+reações reação NCFP000
+reação reação NCFS000
 reactivações reactivação NCFP000
 reactivação reactivação NCFS000
 reactivo reactivo NCMS000
@@ -113536,6 +113589,7 @@ secaturas secatura NCFP000
 seccionamento seccionamento NCMS000
 seccionamentos seccionamento NCMP000
 secções secção NCFP000
+seções seção NCFP000
 secessões secessão NCFP000
 secesso secesso NCMS000
 secessão secessão NCFS000
@@ -113546,6 +113600,7 @@ secância secância NCFS000
 secâncias secância NCFP000
 seco seco NCMS000
 secção secção NCFS000
+seção seção NCFS000
 secos seco NCMP000
 secreções secreção NCFP000
 secreção secreção NCFS000
@@ -113578,11 +113633,17 @@ secretária secretário NCFS000
 secretárias secretária NCFP000
 secretárias secretário NCFP000
 secretário secretário NCMS000
+secretário-geral secretário-geral NCMS000
+secretários-geral secretário-geral NCMP000
+secretária-geral secretário-geral NCFS000
+secretárias-geral secretário-geral NCFP000
 secretários secretário NCMP000
 sectarismo sectarismo NCMS000
 sectarismos sectarismo NCMP000
 sectarista sectarista NCCS000
 sectaristas sectarista NCCP000
+setor setor NCMS000
+setores setor NCMP000
 sector sector NCMS000
 sectores sector NCMP000
 sectorizações sectorização NCFP000
@@ -113896,6 +113957,8 @@ seleccionismo seleccionismo NCMS000
 seleccionismos seleccionismo NCMP000
 selecções selecção NCFP000
 selecção selecção NCFS000
+seleções seleção NCFP000
+seleção seleção NCFS000
 selecta selecta NCFS000
 selectas selecta NCFP000
 selectividade selectividade NCFS000
@@ -122413,6 +122476,8 @@ timbu timbu NCMS000
 timburi timburi NCMS000
 timburis timburi NCMP000
 timbus timbu NCMP000
+time time NCMS000
+times time NCMP000
 timectomia timectomia NCFS000
 timectomias timectomia NCFP000
 timeleácea timeleácea NCFS000
