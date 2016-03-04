@@ -33532,6 +33532,8 @@ consentidoras consentidor NCFP000
 consentidores consentidor NCMP000
 consentimento consentimento NCMS000
 consentimentos consentimento NCMP000
+conseqüente conseqüente NCMS000
+conseqüentes conseqüente NCMP000
 consequente consequente NCMS000
 consequentes consequente NCMP000
 consequência consequência NCFS000
@@ -38093,8 +38095,8 @@ decoradoras decorador NCFP000
 decoradores decorador NCMP000
 decorações decoração NCFP000
 decoração decoração NCFS000
-decorência decorência NCMS000
-decorências decorência NCMP000
+decoerência decoerência NCFS000
+decoerência decoerência NCFP000
 decorrência decorrência NCFS000
 decorrências decorrência NCFP000
 decoro decoro NCMS000
@@ -70084,6 +70086,8 @@ infractores infractor NCMP000
 infrações infração NCFP000
 infraestrutura infraestrutura NCFS000
 infraestruturas infraestrutura NCFP000
+infra-estrutura infra-estrutura NCFS000
+infra-estruturas infra-estrutura NCFP000
 infrangibilidade infrangibilidade NCFS000
 infrangibilidades infrangibilidade NCFP000
 infração infração NCFS000
@@ -122468,7 +122472,7 @@ tetrápodes tetrápode NCMP000
 tetrásporo tetrásporo NCMS000
 tetrásporos tetrásporo NCMP000
 teto teto NCMS000
-tetos tetoo NCMP000
+tetos teto NCMP000
 tetés teté NCMP000
 teíu teíu NCMS000
 teucra teucro NCFS000
