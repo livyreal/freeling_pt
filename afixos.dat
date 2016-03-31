@@ -13,17 +13,17 @@
 # 6 Enclitic suffix (special accent behaviour in Spanish)
 # 7 Prevent later modules from assigning more tags to the word
 # 8 Lemma to assign: F=original form, R=root found in dict, L=lemma in matching dict entry, 
-#                    AF/AR/AL=affix followed by F/R/L, FA/RA/LA=F/R/L followed by affix
+#                    A+F/A+R/A+L=affix followed by F/R/L, F+A/R+A/L+A=F/R/L followed by affix
 # 9 Consider the suffix always, not only for unknown words.
 # 10 How to retokenize the word if necessary (see user manual).
 #==============================================================
 
 <Prefixes>
 #Prefixos extraídos do Bosque completo (mantêm o - no token/lema para a avaliação).
-#contra-      *    ^N|A   *    0    0    1    R    1   contra-+$$:AQ0CN0+*
-#vice-        *    ^N|A   *    0    0    1    R    1   cive-+$$:AQ0CN0+*
+contra-       *    ^N|A   *    0    0    1    A+L  0   -
+vice-         *    ^N|A   *    0    0    1    A+L  0   -
+ex-           *    ^N|A   *    0    0    1    A+L  0   -
 #mal-         *    ^N|A   *    0    0    1    R    1   mal-+$$:AQ0CN0+*
-#ex-          *    ^N|A   *    0    0    1    R    1   ex-+$$:AQ0CN0+*
 #anti-        *    ^N|A   *    0    0    1    R    1   anti-+$$:AQ0CN0+*
 #pós-         *    ^N|A   *    0    0    1    R    1   pós-+$$:AQ0CN0+*
 #auto-        *    ^N|A   *    0    0    1    R    1   auto-+$$:AQ0CN0+*
