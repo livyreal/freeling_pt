@@ -20,10 +20,10 @@
 
 <Prefixes>
 #Prefixos extraídos do Bosque completo (mantêm o - no token/lema para a avaliação).
-contra-       *    ^N|A   *    0    0    1    A+L  0   -
-vice-         *    ^N|A   *    0    0    1    A+L  0   -
-ex-           *    ^N|A   *    0    0    1    A+L  0   -
-mal-         *    ^N|A   *    0    0    1    A+L   0   -
+contra-      *    ^N|A   *    0    0    1    A+L	0   -
+vice-        *    ^N|A   *    0    0    1    A+L	0   -
+ex-          *    ^N|A   *    0    0    1    A+L	0   -
+mal-         *    ^N|A   *    0    0    1    A+L	0   -
 anti-        *    ^N|A   *    0    0    1    A+L	0  -
 pós-         *    ^N|A   *    0    0    1    A+L    0   -
 auto-        *    ^N|A   *    0    0    1    A+L    0   -
@@ -49,9 +49,9 @@ arqui-       *    ^N|A   *    0    0    1    A+L    0   -
 
 ## Contracções ambíguas.
 
-elo	  or	      ^S   	 *  	0	0	0 L	1	$$+o:SPS+DA
-ela	  or	      ^S	 *	0	0	0 L	1	$$+a:SPS+DA
-elas	  or	      ^S	 *	0	0	0 L	1	$$+as:SPS+DA
+elo		or	      ^S   	 *  0	0	0 L	1	$$+o:SPS+DA
+ela		or	      ^S	 *	0	0	0 L	1	$$+a:SPS+DA
+elas	or	      ^S	 *	0	0	0 L	1	$$+as:SPS+DA
 
 este	  e	      ^S	 *	0	0	0 L	1	$$+este:SPS+DD
 estes	  e	      ^S	 *	0	0	0 L	1	$$+estes:SPS+DD
@@ -61,7 +61,7 @@ esses	  e	      ^S	 *	0	0	0 L	1	$$+esses:SPS+DD
 essa	  e	      ^S	 *	0	0	0 L	1	$$+essa:SPS+DD
 essas	  e	      ^S	 *	0	0	0 L	1	$$+essas:SPS+DD
 isto	  e	      ^S	 *	0	0	0 L	1	$$+isto:SPS+PD
-uma	  e	      ^S	 *	0	0	0 L	1	$$+uma:SPS+DI
+uma		  e	      ^S	 *	0	0	0 L	1	$$+uma:SPS+DI
 umas	  e	      ^S	 *	0	0	0 L	1	$$+umas:SPS+DI
 #onde	  *	      ^S	 *	0	0	0 L	1	$$+onde:SPS+RG
 
