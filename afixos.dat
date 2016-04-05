@@ -811,7 +811,7 @@ zinha	z	^NCFS	NCFS00D	1	0	0	L 0	-
 zinhos	z	^NCMP	NCMP00D	1	0	0	L 0	-
 zinho	z	^NCMS	NCMS00D	1	0	0	L 0	-
 
-# luzinha # Pode-se unir ao anterior mudando o género? E acrescentar também AQ?
+# luzinha # Pode-se unir ao anterior mudando o género
 #comentando por que a regra anterior já pega isto
 
 #zinhas	z	^NCFS	NCFP00D	1	0	0	L 0	-
