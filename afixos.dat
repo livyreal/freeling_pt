@@ -23,17 +23,18 @@
 contra-       *    ^N|A   *    0    0    1    A+L  0   -
 vice-         *    ^N|A   *    0    0    1    A+L  0   -
 ex-           *    ^N|A   *    0    0    1    A+L  0   -
-#mal-         *    ^N|A   *    0    0    1    R    1   mal-+$$:AQ0CN0+*
-#anti-        *    ^N|A   *    0    0    1    R    1   anti-+$$:AQ0CN0+*
-#pós-         *    ^N|A   *    0    0    1    R    1   pós-+$$:AQ0CN0+*
-#auto-        *    ^N|A   *    0    0    1    R    1   auto-+$$:AQ0CN0+*
-#sub-         *    ^N|A   *    0    0    1    R    1   sub-+$$:AQ0CN0+*
-#inter-       *    ^N|A   *    0    0    1    R    1   inter-+$$:AQ0CN0+*
-#neo-         *    ^N|A   *    0    0    1    R    1   neo-+$$:AQ0CN0+*
-#recém-       *    ^N|A   *    0    0    1    R    1   recém-+$$:AQ0CN0+*
-#pré-         *    ^N|A   *    0    0    1    R    1   pré-+$$:AQ0CN0+*
-#intra-       *    ^N|A   *    0    0    1    R    1   intra-+$$:AQ0CN0+*
-#arqui-       *    ^N|A   *    0    0    1    R    1   arqui-+$$:AQ0CN0+*
+mal-         *    ^N|A   *    0    0    1    A+L   0   -
+anti-        *    ^N|A   *    0    0    1    A+L	0  -
+pós-         *    ^N|A   *    0    0    1    A+L    0   -
+auto-        *    ^N|A   *    0    0    1    A+L    0   -
+sub-         *    ^N|A   *    0    0    1    A+L    0   -
+inter-       *    ^N|A   *    0    0    1    A+L    0   -
+neo-         *    ^N|A   *    0    0    1    A+L    0   -
+recém-       *    ^N|A   *    0    0    1    A+L    0   -
+pré-         *    ^N|A   *    0    0    1    A+L    0   -
+intra-       *    ^N|A   *    0    0    1    A+L    0   -
+arqui-       *    ^N|A   *    0    0    1    A+L    0   -
+
 </Prefixes>
 
 <Suffixes>
@@ -805,15 +806,16 @@ nzinho	n	^NCMS	NCMS00D	1	0	0	L 0	-
 
 # rapazinho #
 
-zinhas	z	^NCMS	NCFP00D	1	0	0	L 0	-
-zinha	z	^NCMS	NCFS00D	1	0	0	L 0	-
-zinhos	z	^NCMS	NCMP00D	1	0	0	L 0	-
+zinhas	z	^NCFP	NCFP00D	1	0	0	L 0	-
+zinha	z	^NCFS	NCFS00D	1	0	0	L 0	-
+zinhos	z	^NCMP	NCMP00D	1	0	0	L 0	-
 zinho	z	^NCMS	NCMS00D	1	0	0	L 0	-
 
 # luzinha # Pode-se unir ao anterior mudando o género? E acrescentar também AQ?
+#comentando por que a regra anterior já pega isto
 
-zinhas	z	^NCFS	NCFP00D	1	0	0	L 0	-
-zinha	z	^NCFS	NCFS00D	1	0	0	L 0	-
+#zinhas	z	^NCFS	NCFP00D	1	0	0	L 0	-
+#zinha	z	^NCFS	NCFS00D	1	0	0	L 0	-
 
 # francesinho # 
 
@@ -868,6 +870,34 @@ inhos	*	^NC	NCMP00D 1	0	0	L 0	-
 inha	*	^NC	NCFS00D 1	0	0	L 0	-
 inhas	*	^NC	NCFP00D 1	0	0	L 0	-
 
+#pracinha#
+
+cinha	ça	^NC	NCFS00D	1	0	0	L	0	-
+cinhas	ça	^NC	NCFP00D	1	0	0	L	0	-
+
+#abracinho#
+
+cinho ço	^NC	NCMS00D 1	0	0	L 0	-
+cinhos ço	^NC	NCMP00D 1	0	0	L 0	-
+
+#precinha#
+
+cinha	ce	^NC	NCFS00D	1	0	0	L	0	-
+cinhas	ce	^NC	NCFP00D	1	0	0	L	0	-
+
+#bandinha, bandinho#
+
+inha	a	^NC	NCFS00D	1	0	0	L	0	-
+inhas	a	^NC	NCFP00D	1	0	0	L	0	-
+inho	o	^NC	NCMS00D	1	0	0	L	0	-
+inhos	o	^NC	NCMP00D	1	0	0	L	0	-
+
+#rapidinho#
+
+inho	o	^AQ0	AQDMS0	1	0	0	L 0	-
+inhos	o	^AQ0	AQDMP0	1	0	0	L 0	-
+inha	o	^AQ0	AQDFS0	1	0	0	L 0	-
+inhas	o	^AQ0	AQDFP0	1	0	0	L 0	-
 
 ################ SUPERLATIVOS ##############
 
