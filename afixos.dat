@@ -870,29 +870,29 @@ inhos	*	^NC	NCMP00D 1	0	0	L 0	-
 inha	*	^NC	NCFS00D 1	0	0	L 0	-
 inhas	*	^NC	NCFP00D 1	0	0	L 0	-
 
-#pracinha#
+# pracinha #
 
 cinha	ça	^NC	NCFS00D	1	0	0	L	0	-
 cinhas	ça	^NC	NCFP00D	1	0	0	L	0	-
 
-#abracinho#
+# abracinho #
 
 cinho ço	^NC	NCMS00D 1	0	0	L 0	-
 cinhos ço	^NC	NCMP00D 1	0	0	L 0	-
 
-#precinha#
+# precinha #
 
 cinha	ce	^NC	NCFS00D	1	0	0	L	0	-
 cinhas	ce	^NC	NCFP00D	1	0	0	L	0	-
 
-#bandinha, bandinho#
+# bandinha, bandinho #
 
 inha	a	^NC	NCFS00D	1	0	0	L	0	-
 inhas	a	^NC	NCFP00D	1	0	0	L	0	-
 inho	o	^NC	NCMS00D	1	0	0	L	0	-
 inhos	o	^NC	NCMP00D	1	0	0	L	0	-
 
-#rapidinho#
+# rapidinho #
 
 inho	o	^AQ0	AQDMS0	1	0	0	L 0	-
 inhos	o	^AQ0	AQDMP0	1	0	0	L 0	-
